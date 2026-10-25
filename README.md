@@ -1,4 +1,27 @@
-# 小书童 Alpha 内部测试安装包
+# 小书童 Core Android — 正式公开下载
+
+**当前正式版：v0.1.2（2026-10-25）**。正式发布后根据实际使用反馈持续改进。
+
+- [正式发布页及更新记录](https://github.com/xiaoshutong-ai/xiaoshutong-downloads/releases/tag/core-android-v0.1.2-20261025)
+- [直接下载 Android APK（约 403 MB）](https://github.com/xiaoshutong-ai/xiaoshutong-downloads/releases/download/core-android-v0.1.2-20261025/xiaoshutong-core-android-v0.1.2.apk)
+- [第三方许可证、署名及对应源码](https://github.com/xiaoshutong-ai/xiaoshutong-downloads/releases/download/core-android-v0.1.2-20261025/xiaoshutong-core-android-v0.1.2-thirdparty-notices.zip)
+- [公开文件 SHA-256 清单](https://github.com/xiaoshutong-ai/xiaoshutong-downloads/releases/download/core-android-v0.1.2-20261025/SHA256SUMS.txt)
+
+正式版 Android 包名：cn.xiaoshutong.child，版本号 0.1.2（versionCode 1），Android 8.0+ ARM64。已安装同证书正式版可保留数据更新；历史 Alpha 与正式版包名不同，不能互相覆盖。
+
+APK SHA-256：bf97a4f60bad3da2620dd5093c21e10f75f941ad00c9bb29e09c8fdb5664dfd1
+
+**使用须知：** 由家长协助安装，需要已有授权的家长账号才能进入相关学习功能。公开下载不等于自动开通账号或付费权益。首次发布可能有缺陷，请反馈至 xiaoshutong2026@foxmail.com，不要在公开 Issue 中披露密码、验证码或儿童原始音视频。
+
+官网：https://xiaoshutong.xyz/
+
+此处是**公开 APK 与许可证分发仓库**。正式业务工程仓库与源代码继续保持私有；这里不存储签名密钥、个人账号资料或儿童学习数据。
+
+---
+
+以下旧版 Alpha 说明仅作历史留存，不代表当前正式发行版本。
+
+## 历史存档：Alpha 内部测试安装包
 
 当前版本：`0.1.2-alpha-account.3`（versionCode 5），Android 包名：`cn.xiaoshutong.child.alpha`。
 
